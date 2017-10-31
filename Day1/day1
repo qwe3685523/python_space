@@ -1,0 +1,42 @@
+1 变量
+    强制转换
+        int("11")
+    变量指向问题
+2 中文编码
+
+    # -*- coding:utf-8 -*-
+3 接收键盘输入。。。密码的密文方式
+    import getpass 导入标准块
+    2.7 raw_input() 3.0 input() 接收为str
+    2.7版input() 接收为int
+4 while循环 for循环
+    break 跳出此循环
+    continue 跳出本次循环
+    range(stat，end，scan)方法
+     start 开始值（可省略 默认0）
+     end 结束值（不包含在数组内）
+     scan 间距（可省略 默认1） 不能是0
+     range（10） 相当于获取一个从0到10的数组，不包含10
+     range（0,10,2）
+         相当于从0到10能被二整除的数的数组{0,2,4,6,8}
+     循环可以使用else
+     while boolen：
+        ******
+     else：
+        ******
+
+     else 中的代码块在循环条件不满足是执行
+
+
+     for ******：
+        ******
+     else：
+        ******
+     else中的代码块在循环结束是执行
+5 注释的方式
+    单行注释 #
+    多行注释 '''注释内容'''  注释内容能被当做str 输出
+6 格式化方式
+   1 '''%s %s'''%(str,str)
+   2 '''_name'''.format(_name =name)
+   3 '''{0} {1}'''.format(name,age)

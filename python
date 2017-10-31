@@ -1,0 +1,51 @@
+1.Python
+    第一节阶段 -------语言基础
+        1数据类型
+        2流程控制
+        3常用模块
+        4函数，迭代器，装饰器
+        5递归，迭代，反射
+        6面向对象编程
+        7购物车程序
+        8Atm信用卡程序开发
+        9计算器程序开发
+        10模拟人生游戏开发
+     第二阶段 --------网络编程
+        Socket c/s编程  Twisted异步网络框架  网络爬虫开发
+        多线程 多进程 协程gevent select\poll\epoll
+        生产者消费者模型
+        审计堡垒机系统开发
+        FTP服务器开发
+        批量命令 文件分布工具
+        RabbitMQ消息队列 SqlAlchemy ORM
+        类SaltStack配置管理工具开发
+        Reids\MenuCache\MongoDB缓存数据库
+      第三阶段 -------Web基础开发
+        HTML/CSS基础
+        Dom编程
+        原生JS学习
+        Jquery/EasyUi/Angulajs
+        Ajax异步加载
+        Highchat画图
+        Bootstrap
+      第四阶段  ---------算法和设计模式
+         冒泡 二叉树 哈希 折半等常见算法
+         工厂模式 单例模式 享元模式 代理模式等设计模式的学习
+      第五阶段  ---------PY WEB 框架
+         MVC 架构讲解
+         自行开发一个web框架
+         Django/Tornado/Flask/Bottle/WebPy学习
+         Session/中间件/ORM/Cookie/CSRF/FORM...
+         Restful API框架
+         权限管理后台开发
+         开发BBS论坛
+         开发Web聊天室
+      第六阶段  -------项目实战
+        购物商城开发
+        主机管理 任务编排   运维审计堡垒机开发
+        分布式类Nagios/Zabbix监控产品开发
+        CMDB资产管理开发
+        基于用户视角的网站访问质量监测分析平台开发
+        Docker自动化管理平台开发
+        OpenStack二次开发
+      第七阶段  -------
